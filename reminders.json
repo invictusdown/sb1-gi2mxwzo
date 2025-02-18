@@ -1,0 +1,13 @@
+{
+  "reminders": [
+    {
+      "id": "028e0789-028b-4fc0-8401-dc4eefe1f236",
+      "title": "Test2",
+      "description": "test2",
+      "date": "2025-02-19T00:00:00.000Z",
+      "frequency": "once",
+      "chatId": 886004739,
+      "category": "task"
+    }
+  ]
+}
